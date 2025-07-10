@@ -14,8 +14,10 @@ This project allows organizations to manage their staff, departments, and locati
 
 ## Screenshots
 
-![Employee Directory Screenshot](screenshots/employee-directory.png)
-![Add/Edit Employee Modal](screenshots/edit-employee-modal.png)
+![Employee Directory Screenshot]<img width="1920" height="1112" alt="screencapture-pelumi-fwh-is-2025-07-10-15_11_30" src="https://github.com/user-attachments/assets/d0c49866-a64f-42e2-b7ae-2e4934c6b446" />
+
+![Add/Edit Employee Modal]<img width="1920" height="945" alt="screencapture-pelumi-fwh-is-2025-07-10-15_13_33" src="https://github.com/user-attachments/assets/99986b32-5208-4ef6-badd-b36a2f0a2cdb" />
+
 
 ## Tech Stack
 
