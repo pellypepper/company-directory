@@ -3,6 +3,8 @@
 A modern, responsive employee management system built with Bootstrap 5, jQuery, and PHP.  
 This project allows organizations to manage their staff, departments, and locations efficiently via a user-friendly web interface.
 
+Live Demo :  https://pelumi.fwh.is/
+
 ## Features
 
 - **Staff Directory:** Add, edit, view, and delete employee records. Filter and search employees by name, department, or location.
